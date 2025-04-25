@@ -1,0 +1,2 @@
+# C Code collection
+ This repository contains a collection of basic C++ programs designed to demonstrate fundamental concepts and solve everyday programming problems. The programs include various types of applications, ranging from mathematical operations and string manipulation to games, file handling, and simple inventory management systems. The objective of this repository is to help beginners understand core programming principles, such as user input handling, control structures, functions, file operations, and arrays.
